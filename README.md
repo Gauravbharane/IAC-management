@@ -1,5 +1,7 @@
 # IAC-management
 
+Full blog link - https://gauravbharane.medium.com/manage-cloud-servers-using-iac-c9a5d8dec1af
+
 
 In today’s fast-paced technological landscape, managing infrastructure efficiently is crucial for any organization. Infrastructure as Code (IaC) has revolutionized the way we deploy, manage, and scale our infrastructure. In this blog post, I’ll share my experience of creating and managing Linux servers on Akamai Cloud (Linode) using IaC tools like Terraform and Ansible. This project aimed to achieve a scalable, automated, and efficient infrastructure setup.
 
