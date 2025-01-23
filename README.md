@@ -1,7 +1,7 @@
 # IAC-management
 
 Full blog link - https://gauravbharane.medium.com/manage-cloud-servers-using-iac-c9a5d8dec1af.
-<br>
+<hr>
 View my Presentation - https://www.canva.com/design/DAFutgOgQrQ/Qw_MkRGVfq1iOkkzLlo-Iw/view?utm_content=DAFutgOgQrQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#13
 <hr>
 
